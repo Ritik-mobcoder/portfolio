@@ -8,7 +8,7 @@ const experiences = [
     company: "Mobcoder",
     role: "AI/ML Engineer",
     period: "Sep 2024 – Present",
-    location: "Remote",
+    location: "Noida",
     description: [
       "End-to-end AI systems: POC to production",
       "RAG pipelines, vector DBs (Qdrant, Vertex AI), agentic workflows",
@@ -21,7 +21,7 @@ const experiences = [
     company: "Ionicx Digital",
     role: "Software Engineer",
     period: "Aug 2023 – Aug 2024",
-    location: "Remote",
+    location: "Chennai",
     description: [
       "RESTful API platform for travel/excursion booking",
       "User auth, trip scheduling, real-time data APIs",
