@@ -51,7 +51,7 @@ export default function Navigation() {
                 </a>
               ))}
               <a
-                href="/Ritik_Gupta_Resume_2026-03-22.pdf"
+                href="/Ritik_Gupta_Resume_2026-06-14.pdf"
                 download
                 className="flex items-center gap-2 px-4 py-2 bg-accent text-background rounded-full text-sm font-semibold hover:bg-opacity-90 transition-all"
               >
@@ -91,7 +91,7 @@ export default function Navigation() {
                 </a>
               ))}
               <a
-                href="/Ritik_Gupta_Resume_2026-03-22.pdf"
+                href="/Ritik_Gupta_Resume_2026-06-14.pdf"
                 download
                 className="flex items-center gap-2 px-6 py-3 bg-accent text-background rounded-full font-semibold mt-4"
                 onClick={() => setIsMobileMenuOpen(false)}

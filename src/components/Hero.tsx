@@ -51,7 +51,7 @@ export default function Hero() {
               View Projects
             </motion.a>
             <motion.a
-              href="/Ritik_Gupta_Resume_2026-03-22.pdf"
+              href="/Ritik_Gupta_Resume_2026-06-14.pdf"
               download
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
